@@ -1,7 +1,7 @@
 # Applied-Data-Science-Capstone-IBM
 Capstone Project Notebook
 
-### The Battle of Neighborhoods (Cont'd)
+## The Battle of Neighborhoods (Cont'd)
 In this module, you will carry out all the remaining work to complete your capstone project. You will submit a report of your project for peer evaluation.
 
 ## Key Concepts
@@ -39,8 +39,11 @@ Presentation: https://cocl.us/coursera_capstone_presentation
 Blog post: https://cocl.us/coursera_capstone_blogpost
 
 ### My Wrok
-#### Final Report: https://github.com/rekharchandran/Applied-Data-Science-Capstone-IBM/blob/main/Week%205/The%20Battle%20of%20Neighbourhoods(Second%20Part)/Final_Report.pdf
+#### Final Report:
+https://github.com/rekharchandran/Applied-Data-Science-Capstone-IBM/blob/main/Week%205/The%20Battle%20of%20Neighbourhoods(Second%20Part)/Final_Report.pdf
 
-#### Final Presentation : https://github.com/rekharchandran/Applied-Data-Science-Capstone-IBM/blob/main/Week%205/The%20Battle%20of%20Neighbourhoods(Second%20Part)/Final_presentation.pdf
+#### Final Presentation : 
+https://github.com/rekharchandran/Applied-Data-Science-Capstone-IBM/blob/main/Week%205/The%20Battle%20of%20Neighbourhoods(Second%20Part)/Final_presentation.pdf
 
-#### Blog post: https://rekharchandran.medium.com/berlin-or-munich-f49fdb94135a
+#### Blog post: 
+https://rekharchandran.medium.com/berlin-or-munich-f49fdb94135a
